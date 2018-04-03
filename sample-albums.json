@@ -1,0 +1,27 @@
+{ "albums": [{
+    "title": "Kissland",
+    "artist": "The Weeknd",
+    "description": "After his monumental mixtape, 'Trilogy', The Weeknd releases his first offical album in 2014",
+    "id": "1"
+    }, {
+    "title": "Silver Linings",
+    "artist": "Leo Kalyan",
+    "description": "The first EP after numerous singles, and a mixtape that put him on the map. Silver Linings features everything you love about Leo.",
+    "id": "2"
+      }, {
+    "title": "Both Sides",
+    "artist": "Phil Collins",
+    "description": "With is 2nd studio album, Collins creates another masterpiece featuring the styles you come to love about this artist.",
+    "id": "3"
+    }, {
+  "title": "The Inspiration",
+  "artist": "Young Jeezy",
+  "description": "With his second album, Jeezy asserts himself as one of the best hip hop artists out now with the new classic.",
+  "id": "3"
+  }, {
+"title": "Call Me Over",
+"artist": "Always Never",
+"description": "The Toronto duo's first EP features 3 songs that ecompasses everything you come to love about AN.",
+"id": "3"
+  }]
+}
